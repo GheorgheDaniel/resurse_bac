@@ -18,7 +18,7 @@ int main() {
 
 		bool ok = 1;
 
-		//cum parcurgem elementele
+		//cum parcurgem elementele?
 		//for(...) ...
 
 		//if(ok == 1) cout << ... 
